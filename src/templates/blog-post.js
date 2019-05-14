@@ -18,6 +18,11 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
+  var re = new RegExp("https://geosync.cloud/maps/0a480ef3-ec0d-4a5f-adf3-c7e2d8f608ba", "g");
+  post.html = post.html.replace(re, "/map");
+  re = new RegExp("https://carrollcountywater.geosync.cloud/map", "g");
+  post.html = post.html.replace(re, "/map");
+
   return (
     <div>
       <div className="container container-main grid-md">
