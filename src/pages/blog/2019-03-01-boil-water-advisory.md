@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Boil Water Advisory
+title: Boil Water Advisory TEMPLATE
 date: 2019-03-01T10:04:07.480Z
-draft: false
+draft: true
 description: |-
   This is only a TEST
   A boil water advisory is in effect for the downtown area.
