@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Notification System
 date: 2019-05-17T17:53:37.482Z
-draft: true
+draft: false
 description: Testing
 ---
 ![](/img/hydflush.jpeg)
