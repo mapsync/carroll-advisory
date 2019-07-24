@@ -6,7 +6,7 @@ description: "07/24/2019 (Time:  12:08 pm)\t\nWe are happy to announce that the 
 ---
 07/24/2019 (Time:  12:08 pm)	
 
-We are happy to announce that the advisory has been LIFTED and you can go back to your normal consumption that was issued yesterday 07/23/2019. 
+We are happy to announce that the advisory has been LIFTED and you can go back to your normal consumption!   
 
 We apologize for any and all inconvenience that has resulted in this event.  If you have any questions or concerns, please contact us.
 
