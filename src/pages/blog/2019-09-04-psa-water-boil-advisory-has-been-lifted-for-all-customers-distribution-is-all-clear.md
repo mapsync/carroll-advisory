@@ -22,13 +22,11 @@ description: >
 ---
 09/04/2019 
 
-We are happy to announce that the advisory has been LIFTED and you can go back to your normal consumption. 
+We are happy to announce that the advisory has been LIFTED that was issued yesterday.  You can go back to your normal consumption. 
 
 We apologize for any and all inconvenience that has resulted in this event.  If you have any questions or concerns, please contact us.
 
 Thank you for your patience during this cautionary measure.
-
-
 
 Kind Regards,
 
