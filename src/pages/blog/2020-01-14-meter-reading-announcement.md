@@ -6,4 +6,4 @@ description: >-
   Notifying all meters will be read and inspected for the February bill
   statement.
 ---
-  Routine meter readinf collection
+  Routine meter readin collection
